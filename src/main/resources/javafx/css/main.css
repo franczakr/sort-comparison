@@ -1,0 +1,10 @@
+.hbox .vbox{
+    -fx-spacing: 10;
+    -fx-padding: 10;
+    -fx-alignment: center;
+}
+
+.list-view, .text-area, .text-field {
+    -fx-focus-color: transparent;
+}
+
